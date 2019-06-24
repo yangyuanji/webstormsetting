@@ -4,7 +4,9 @@
 
 2，你可以根据自己的喜好更改颜色，在font里面改字体大小。
 
-![](IMG\QQ截图20190624133733.png)
+
+
+![]((https://github.com/yangyuanji/webstormsetting/blob/master/img/QQ截图20190624133733.png)
 
 ![](IMG\QQ截图20190624133733.png)
 
